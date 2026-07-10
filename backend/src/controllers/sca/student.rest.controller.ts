@@ -1,13 +1,13 @@
 import type { Request } from "express";
 
-import RestController from "../rest.controller.js";
-import { CourseModel, StudentModel } from "../../models/index.js";
-import type { StudentPayload } from "../../helpers/sca-controller.helper.js";
+import RestController from "../rest.controller.ts";
+import { CourseModel, StudentModel } from "../../models/index.ts";
+import type { StudentPayload } from "../../helpers/sca-controller.helper.ts";
 import {
   createControllerError,
   normalizeStudentPayload,
   serializeApplicationDateField,
-} from "../../helpers/sca-controller.helper.js";
+} from "../../helpers/sca-controller.helper.ts";
 
 const resolvePreferredCourses = async (
   preferences: [string, string, string]

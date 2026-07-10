@@ -1,5 +1,5 @@
 import { Schema, type HydratedDocument } from "mongoose";
-import { getAsaConnection } from "../db/client.js";
+import { getAsaConnection } from "../db/client.ts";
 
 export type AsaAiHistoryRole = "user" | "assistant";
 

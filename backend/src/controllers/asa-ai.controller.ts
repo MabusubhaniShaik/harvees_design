@@ -5,7 +5,7 @@ import {
   getAsaAiConfig,
   getAsaChatHistory,
   getAsaQueryHistory,
-} from "../ai/asa-ai.service.js";
+} from "../ai/asa-ai.service.ts";
 
 export const getAsaAiStatus = async (
   _req: Request,

@@ -10,13 +10,13 @@ import {
   queryTable,
   exportExcel,
   exportPdf,
-} from "../controllers/asa.controller.js";
+} from "../controllers/asa.controller.ts";
 import {
   chatWithAsaAssistant,
   getAsaAiChatHistory,
   getAsaAiHistory,
   getAsaAiStatus,
-} from "../controllers/asa-ai.controller.js";
+} from "../controllers/asa-ai.controller.ts";
 
 const router = Router();
 const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });

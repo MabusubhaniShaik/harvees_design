@@ -1,17 +1,17 @@
-import "./src/config/env.js";
+import "./src/config/env.ts";
 import express from "express";
 import { json } from "express";
 import cors from "cors";
 import { createServer } from "node:http";
-import scaRouter from "./src/routes/sca.routes.js";
-import asaRouter from "./src/routes/asa.routes.js";
-import { errorHandler } from "./src/middlewares/errorHandler.js";
-import { requestLogger } from "./src/middlewares/requestLogger.js";
-import { healthCheck } from "./src/controllers/health.controller.js";
-import { initDB } from "./src/db/client.js";
-import { initAsaDb } from "./src/db/asa-db.js";
-import { registerScaSchemas, registerAsaSchemas } from "./src/schemas/index.js";
-import { logger, serializeError } from "./src/utils/logger.js";
+import scaRouter from "./src/routes/sca.routes.ts";
+import asaRouter from "./src/routes/asa.routes.ts";
+import { errorHandler } from "./src/middlewares/errorHandler.ts";
+import { requestLogger } from "./src/middlewares/requestLogger.ts";
+import { healthCheck } from "./src/controllers/health.controller.ts";
+import { initDB } from "./src/db/client.ts";
+import { initAsaDb } from "./src/db/asa-db.ts";
+import { registerScaSchemas, registerAsaSchemas } from "./src/schemas/index.ts";
+import { logger, serializeError } from "./src/utils/logger.ts";
 
 const app = express();
 app.use(cors());

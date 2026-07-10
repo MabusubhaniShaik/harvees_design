@@ -3,8 +3,8 @@ import {
   CourseModel,
   ScaAiHistoryModel,
   StudentModel,
-} from "../models/index.js";
-import { generateGeminiText, getGeminiConfig } from "./gemini-client.js";
+} from "../models/index.ts";
+import { generateGeminiText, getGeminiConfig } from "./gemini-client.ts";
 
 type CategoryName = "General" | "OBC" | "SC" | "ST";
 

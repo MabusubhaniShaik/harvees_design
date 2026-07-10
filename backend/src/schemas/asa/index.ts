@@ -1,11 +1,11 @@
-import { getAsaConnection } from "../../db/client.js";
+import { getAsaConnection } from "../../db/client.ts";
 
-import asaAiHistorySchema from "./asa-ai-history.schema.js";
-import asaDatasetSchema from "./asa-dataset.schema.js";
+import asaAiHistorySchema from "./asa-ai-history.schema.ts";
+import asaDatasetSchema from "./asa-dataset.schema.ts";
 import {
   registerSchemasWithChangeDetection,
   type SchemaRegistrationSummary,
-} from "../registry.js";
+} from "../registry.ts";
 
 const ASA_SCHEMAS = [
   { name: "AsaAiHistory", schema: asaAiHistorySchema, collection: "asa_ai_histories" },

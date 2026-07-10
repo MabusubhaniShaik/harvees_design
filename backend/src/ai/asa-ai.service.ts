@@ -1,12 +1,12 @@
-import { generateGeminiText, getGeminiConfig } from "./gemini-client.js";
-import { getAsaAiHistoryModel } from "../models/index.js";
-import { getAsaMongoDb } from "../db/client.js";
+import { generateGeminiText, getGeminiConfig } from "./gemini-client.ts";
+import { getAsaAiHistoryModel } from "../models/index.ts";
+import { getAsaMongoDb } from "../db/client.ts";
 import {
   executeQuery,
   getTableSchema,
   listTables,
   validateQuery,
-} from "../db/asa-db.js";
+} from "../db/asa-db.ts";
 
 type AsaAiChatResponse = {
   answer: string;

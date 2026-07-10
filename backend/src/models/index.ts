@@ -5,14 +5,14 @@ export {
   type ISeatAllocation,
   type StudentCategory,
   type StudentDocument,
-} from "./student.model.js";
+} from "./student.model.ts";
 export {
   CourseModel,
   type ICourse,
   type ICourseCutoffsByCategory,
   type ICourseSeatsByCategory,
   type CourseDocument,
-} from "./course.model.js";
+} from "./course.model.ts";
 export {
   AllocationRunModel,
   type AllocationPreference,
@@ -22,16 +22,16 @@ export {
   type IAllocationRun,
   type IRemainingCourseSeats,
   type IRemainingSeatsByCategory,
-} from "./allocation-run.model.js";
+} from "./allocation-run.model.ts";
 export {
   ScaAiHistoryModel,
   type IScaAiHistory,
   type ScaAiHistoryDocument,
   type ScaAiHistoryRole,
-} from "./sca-ai-history.model.js";
+} from "./sca-ai-history.model.ts";
 export {
   getAsaAiHistoryModel,
   type IAsaAiHistory,
   type AsaAiHistoryDocument,
   type AsaAiHistoryRole,
-} from "./asa-ai-history.model.js";
+} from "./asa-ai-history.model.ts";

@@ -1,12 +1,12 @@
 import type { NextFunction, Request, Response } from "express";
 
-import { formatSuccessResponse } from "../helpers/response-formatter.js";
+import { formatSuccessResponse } from "../helpers/response-formatter.ts";
 import {
   answerScaQuestion,
   getScaAiConfig,
   getScaChatHistory,
   getScaQueryHistory,
-} from "../ai/sca-ai.service.js";
+} from "../ai/sca-ai.service.ts";
 
 export const getScaAiStatus = async (
   _req: Request,

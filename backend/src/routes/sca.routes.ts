@@ -6,13 +6,13 @@ import {
   getLatestAllocation,
   runAllocation,
   studentController,
-} from "../controllers/sca/index.js";
+} from "../controllers/sca/index.ts";
 import {
   chatWithScaAssistant,
   getScaAiChatHistory,
   getScaAiStatus,
   getScaAiHistory,
-} from "../controllers/sca-ai.controller.js";
+} from "../controllers/sca-ai.controller.ts";
 
 const router = Router();
 

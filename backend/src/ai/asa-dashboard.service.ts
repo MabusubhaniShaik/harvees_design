@@ -1,7 +1,7 @@
-import { generateGeminiText, getGeminiConfig } from "./gemini-client.js";
-import { getAsaQueryHistory } from "./asa-ai.service.js";
-import { executeQuery, getTableSchema, listTables, mapSqlTypeToCategory } from "../db/asa-db.js";
-import { logger, serializeError } from "../utils/logger.js";
+import { generateGeminiText, getGeminiConfig } from "./gemini-client.ts";
+import { getAsaQueryHistory } from "./asa-ai.service.ts";
+import { executeQuery, getTableSchema, listTables, mapSqlTypeToCategory } from "../db/asa-db.ts";
+import { logger, serializeError } from "../utils/logger.ts";
 
 const REQUIRED_DATASET_TABLE = "ecommerce_sales_data";
 

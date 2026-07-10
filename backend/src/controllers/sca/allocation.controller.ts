@@ -6,16 +6,16 @@ import {
   StudentModel,
   type ICourseSeatsByCategory,
   type StudentCategory,
-} from "../../models/index.js";
+} from "../../models/index.ts";
 import {
   formatFailResponse,
   formatSuccessResponse,
-} from "../../helpers/response-formatter.js";
-import { logger } from "../../utils/logger.js";
+} from "../../helpers/response-formatter.ts";
+import { logger } from "../../utils/logger.ts";
 import {
   categoryToSeatKey,
   serializeApplicationDateField,
-} from "../../helpers/sca-controller.helper.js";
+} from "../../helpers/sca-controller.helper.ts";
 
 const buildRunCode = () => {
   const timestamp = new Date()

@@ -1,8 +1,8 @@
 import type { Request, Response } from "express";
 import type { Db } from "mongodb";
 
-import { getAsaMongoDb, getMongoDb } from "../db/client.js";
-import { getDb } from "../db/asa-db.js";
+import { getAsaMongoDb, getMongoDb } from "../db/client.ts";
+import { getDb } from "../db/asa-db.ts";
 
 type ResourceHealth = {
   name: string;

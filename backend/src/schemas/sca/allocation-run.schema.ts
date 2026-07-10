@@ -1,6 +1,6 @@
 import { Schema } from "mongoose";
 
-import { studentCategories } from "./student.schema.js";
+import { studentCategories } from "./student.schema.ts";
 
 const remainingSeatsByCategorySchema = new Schema(
   {

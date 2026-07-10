@@ -1,8 +1,8 @@
 import type { Request } from "express";
 
-import RestController from "../rest.controller.js";
-import { AllocationRunModel, type IAllocationRun } from "../../models/index.js";
-import { serializeApplicationDateField } from "../../helpers/sca-controller.helper.js";
+import RestController from "../rest.controller.ts";
+import { AllocationRunModel, type IAllocationRun } from "../../models/index.ts";
+import { serializeApplicationDateField } from "../../helpers/sca-controller.helper.ts";
 
 const serializeAllocationRunRecord = <T extends { allocations?: unknown[] }>(
   record: T

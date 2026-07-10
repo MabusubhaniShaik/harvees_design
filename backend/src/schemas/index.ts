@@ -1,5 +1,5 @@
-export { registerScaSchemas } from "./sca/index.js";
-export { registerAsaSchemas } from "./asa/index.js";
+export { registerScaSchemas } from "./sca/index.ts";
+export { registerAsaSchemas } from "./asa/index.ts";
 
 export const SCA_DB = {
   name: process.env.DB_NAME,

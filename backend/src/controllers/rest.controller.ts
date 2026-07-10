@@ -2,8 +2,8 @@ import type { Request, Response, NextFunction } from "express";
 import {
   formatFailResponse,
   formatSuccessResponse,
-} from "../helpers/response-formatter.js";
-import { logger, serializeError } from "../utils/logger.js";
+} from "../helpers/response-formatter.ts";
+import { logger, serializeError } from "../utils/logger.ts";
 
 type SaveOperation = "create" | "update";
 

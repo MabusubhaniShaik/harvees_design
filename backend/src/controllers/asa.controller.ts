@@ -10,16 +10,16 @@ import {
   getTablePreview,
   inferColumns,
   mapSqlTypeToCategory,
-} from "../db/asa-db.js";
-import { getAsaDashboardSummary } from "../ai/asa-dashboard.service.js";
+} from "../db/asa-db.ts";
+import { getAsaDashboardSummary } from "../ai/asa-dashboard.service.ts";
 import {
   exportFilename,
   parseFileBuffer,
   REQUIRED_TABLE_NAME,
   sanitizeTableName,
   validateRequiredDataset,
-} from "../helpers/asa-controller.helper.js";
-import { logger, serializeError } from "../utils/logger.js";
+} from "../helpers/asa-controller.helper.ts";
+import { logger, serializeError } from "../utils/logger.ts";
 
 export async function uploadCsv(req: Request, res: Response, next: NextFunction) {
   try {

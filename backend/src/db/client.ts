@@ -1,6 +1,6 @@
-import "../config/env.js";
+import "../config/env.ts";
 import mongoose, { createConnection, type Connection, type Mongoose } from "mongoose";
-import { logger, serializeError } from "../utils/logger.js";
+import { logger, serializeError } from "../utils/logger.ts";
 
 let mongooseInstance: Mongoose | null = null;
 let asaConnection: Connection | null = null;

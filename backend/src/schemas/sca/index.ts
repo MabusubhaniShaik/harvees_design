@@ -1,13 +1,13 @@
 import mongoose from "mongoose";
 
-import studentSchema from "./student.schema.js";
-import courseSchema from "./course.schema.js";
-import allocationRunSchema from "./allocation-run.schema.js";
-import scaAiHistorySchema from "./sca-ai-history.schema.js";
+import studentSchema from "./student.schema.ts";
+import courseSchema from "./course.schema.ts";
+import allocationRunSchema from "./allocation-run.schema.ts";
+import scaAiHistorySchema from "./sca-ai-history.schema.ts";
 import {
   registerSchemasWithChangeDetection,
   type SchemaRegistrationSummary,
-} from "../registry.js";
+} from "../registry.ts";
 
 const SCA_SCHEMAS = [
   { name: "Student", schema: studentSchema, collection: "student" },
@@ -29,4 +29,4 @@ export {
 
 export {
   studentCategories,
-} from "./student.schema.js";
+} from "./student.schema.ts";

@@ -3,11 +3,11 @@ import type {
   ICourseSeatsByCategory,
   IStudent,
   StudentCategory,
-} from "../models/index.js";
+} from "../models/index.ts";
 import {
   ensureApplicationDate,
   formatApplicationDate,
-} from "../utils/application-date.js";
+} from "../utils/application-date.ts";
 
 export type StudentPayload = Omit<IStudent, "is_active"> &
   Partial<Pick<IStudent, "is_active">>;

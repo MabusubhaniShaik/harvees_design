@@ -1,5 +1,5 @@
 import initSqlJs, { type Database as SqlJsDatabase, type SqlJsStatic } from "sql.js";
-import { getAsaMongoDb } from "./client.js";
+import { getAsaMongoDb } from "./client.ts";
 
 type ColumnDef = { name: string; type: string };
 type RowData = Record<string, string>;

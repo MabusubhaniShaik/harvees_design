@@ -5,7 +5,7 @@ import mongoose, {
   type Types,
 } from "mongoose";
 
-import { studentCategories, type StudentCategory } from "./student.model.js";
+import { studentCategories, type StudentCategory } from "./student.model.ts";
 
 export type AllocationStatus = "preview" | "completed" | "cancelled";
 export type AllocationPreference = 1 | 2 | 3;
