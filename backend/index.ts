@@ -21,6 +21,16 @@ app.use(requestLogger);
 const SCA_BASE_PATH = process.env.SCA_API_PATH ?? "/api/sca";
 const ASA_BASE_PATH = process.env.ASA_API_PATH ?? "/api/asa";
 
+app.get("/", (_request, response) => {
+  response.status(200).json({
+    service: "Harvees API",
+    status: "running",
+    healthCheck: "/health-check",
+  });
+});
+app.get("/favicon.ico", (_request, response) => {
+  response.status(204).end();
+});
 app.get("/health-check", healthCheck);
 app.use("/", scaRouter);
 app.use(SCA_BASE_PATH, scaRouter);
