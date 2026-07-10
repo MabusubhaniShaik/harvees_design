@@ -1,0 +1,93 @@
+[
+  {
+    "course_name": "Computer Science and Engineering",
+    "total_seats": 120,
+    "reserved_seats": { "general": 60, "obc": 32, "sc": 18, "st": 10 },
+    "cutoffs": { "general": 85, "obc": 80, "sc": 70, "st": 65 },
+    "is_active": true
+  },
+  {
+    "course_name": "Artificial Intelligence and Data Science",
+    "total_seats": 80,
+    "reserved_seats": { "general": 40, "obc": 22, "sc": 12, "st": 6 },
+    "cutoffs": { "general": 88, "obc": 83, "sc": 73, "st": 68 },
+    "is_active": true
+  },
+  {
+    "course_name": "Electronics and Communication Engineering",
+    "total_seats": 100,
+    "reserved_seats": { "general": 50, "obc": 27, "sc": 15, "st": 8 },
+    "cutoffs": { "general": 75, "obc": 70, "sc": 60, "st": 55 },
+    "is_active": true
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "total_seats": 90,
+    "reserved_seats": { "general": 45, "obc": 24, "sc": 14, "st": 7 },
+    "cutoffs": { "general": 65, "obc": 60, "sc": 50, "st": 45 },
+    "is_active": true
+  },
+  {
+    "course_name": "Civil Engineering",
+    "total_seats": 80,
+    "reserved_seats": { "general": 40, "obc": 22, "sc": 12, "st": 6 },
+    "cutoffs": { "general": 60, "obc": 55, "sc": 45, "st": 40 },
+    "is_active": true
+  },
+  {
+    "course_name": "Electrical Engineering",
+    "total_seats": 70,
+    "reserved_seats": { "general": 35, "obc": 19, "sc": 11, "st": 5 },
+    "cutoffs": { "general": 70, "obc": 65, "sc": 55, "st": 50 },
+    "is_active": true
+  },
+  {
+    "course_name": "Information Technology",
+    "total_seats": 60,
+    "reserved_seats": { "general": 30, "obc": 16, "sc": 10, "st": 4 },
+    "cutoffs": { "general": 80, "obc": 75, "sc": 65, "st": 60 },
+    "is_active": true
+  },
+  {
+    "course_name": "Electronics and Electrical Engineering",
+    "total_seats": 65,
+    "reserved_seats": { "general": 33, "obc": 17, "sc": 10, "st": 5 },
+    "cutoffs": { "general": 68, "obc": 63, "sc": 53, "st": 48 },
+    "is_active": true
+  },
+  {
+    "course_name": "Chemical Engineering",
+    "total_seats": 50,
+    "reserved_seats": { "general": 25, "obc": 13, "sc": 8, "st": 4 },
+    "cutoffs": { "general": 55, "obc": 50, "sc": 40, "st": 35 },
+    "is_active": true
+  },
+  {
+    "course_name": "Cyber Security",
+    "total_seats": 60,
+    "reserved_seats": { "general": 30, "obc": 16, "sc": 10, "st": 4 },
+    "cutoffs": { "general": 82, "obc": 77, "sc": 67, "st": 62 },
+    "is_active": true
+  },
+  {
+    "course_name": "Robotics and Automation",
+    "total_seats": 55,
+    "reserved_seats": { "general": 28, "obc": 15, "sc": 8, "st": 4 },
+    "cutoffs": { "general": 78, "obc": 73, "sc": 63, "st": 58 },
+    "is_active": true
+  },
+  {
+    "course_name": "Data Analytics",
+    "total_seats": 70,
+    "reserved_seats": { "general": 35, "obc": 19, "sc": 11, "st": 5 },
+    "cutoffs": { "general": 84, "obc": 79, "sc": 69, "st": 64 },
+    "is_active": true
+  },
+  {
+    "course_name": "Biotechnology Engineering",
+    "total_seats": 50,
+    "reserved_seats": { "general": 25, "obc": 13, "sc": 8, "st": 4 },
+    "cutoffs": { "general": 72, "obc": 67, "sc": 57, "st": 52 },
+    "is_active": true
+  }
+]

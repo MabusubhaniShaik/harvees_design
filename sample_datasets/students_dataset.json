@@ -1,0 +1,2002 @@
+[
+  {
+    "student_id": "STU_1001",
+    "student_name": "Aarav Sharma",
+    "marks": 98,
+    "category": "General",
+    "application_date": "2025-06-10T10:30:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Data Science",
+      "Information Technology"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1002",
+    "student_name": "Priya Patel",
+    "marks": 96,
+    "category": "OBC",
+    "application_date": "2025-06-09T09:15:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1003",
+    "student_name": "Rahul Verma",
+    "marks": 94,
+    "category": "SC",
+    "application_date": "2025-06-08T11:45:00Z",
+    "preferences": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1004",
+    "student_name": "Sneha Gupta",
+    "marks": 93,
+    "category": "General",
+    "application_date": "2025-06-11T14:20:00Z",
+    "preferences": [
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1005",
+    "student_name": "Vikram Singh",
+    "marks": 91,
+    "category": "ST",
+    "application_date": "2025-06-07T08:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1006",
+    "student_name": "Ananya Rao",
+    "marks": 89,
+    "category": "OBC",
+    "application_date": "2025-06-12T16:30:00Z",
+    "preferences": [
+      "Electronics and Communication Engineering",
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1007",
+    "student_name": "Karan Malhotra",
+    "marks": 87,
+    "category": "General",
+    "application_date": "2025-06-10T12:00:00Z",
+    "preferences": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1008",
+    "student_name": "Neha Kumari",
+    "marks": 85,
+    "category": "SC",
+    "application_date": "2025-06-13T10:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1009",
+    "student_name": "Arjun Reddy",
+    "marks": 83,
+    "category": "OBC",
+    "application_date": "2025-06-11T15:45:00Z",
+    "preferences": [
+      "Electrical Engineering",
+      "Electronics and Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1010",
+    "student_name": "Meera Nair",
+    "marks": 81,
+    "category": "General",
+    "application_date": "2025-06-14T09:30:00Z",
+    "preferences": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1011",
+    "student_name": "Rohan Das",
+    "marks": 78,
+    "category": "ST",
+    "application_date": "2025-06-12T11:20:00Z",
+    "preferences": [
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1012",
+    "student_name": "Pooja Sharma",
+    "marks": 76,
+    "category": "OBC",
+    "application_date": "2025-06-13T13:10:00Z",
+    "preferences": [
+      "Information Technology",
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1013",
+    "student_name": "Suresh Yadav",
+    "marks": 72,
+    "category": "General",
+    "application_date": "2025-06-15T10:00:00Z",
+    "preferences": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1014",
+    "student_name": "Rina Kumari",
+    "marks": 70,
+    "category": "OBC",
+    "application_date": "2025-06-16T14:30:00Z",
+    "preferences": [
+      "Electronics and Communication Engineering",
+      "Information Technology",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1015",
+    "student_name": "Amit Kumar",
+    "marks": 68,
+    "category": "SC",
+    "application_date": "2025-06-14T09:45:00Z",
+    "preferences": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Computer Science and Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1016",
+    "student_name": "Sunita Devi",
+    "marks": 65,
+    "category": "ST",
+    "application_date": "2025-06-17T11:20:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electronics and Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1017",
+    "student_name": "Rajesh Sharma",
+    "marks": 63,
+    "category": "General",
+    "application_date": "2025-06-15T16:00:00Z",
+    "preferences": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1018",
+    "student_name": "Kavita Singh",
+    "marks": 61,
+    "category": "OBC",
+    "application_date": "2025-06-18T08:30:00Z",
+    "preferences": [
+      "Electrical Engineering",
+      "Electronics and Communication Engineering",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1019",
+    "student_name": "Manoj Patel",
+    "marks": 59,
+    "category": "SC",
+    "application_date": "2025-06-16T12:15:00Z",
+    "preferences": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Information Technology"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1020",
+    "student_name": "Deepak Kumar",
+    "marks": 57,
+    "category": "General",
+    "application_date": "2025-06-19T10:00:00Z",
+    "preferences": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1021",
+    "student_name": "Lata Devi",
+    "marks": 95,
+    "category": "SC",
+    "application_date": "2025-06-07T09:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Data Science",
+      "Electronics and Communication Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1022",
+    "student_name": "Sanjay Rao",
+    "marks": 84,
+    "category": "OBC",
+    "application_date": "2025-06-12T14:00:00Z",
+    "preferences": [
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1023",
+    "student_name": "Priyanka Singh",
+    "marks": 79,
+    "category": "General",
+    "application_date": "2025-06-13T15:30:00Z",
+    "preferences": [
+      "Information Technology",
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1024",
+    "student_name": "Vikas Yadav",
+    "marks": 66,
+    "category": "ST",
+    "application_date": "2025-06-20T11:00:00Z",
+    "preferences": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1025",
+    "student_name": "Anjali Sharma",
+    "marks": 88,
+    "category": "General",
+    "application_date": "2025-06-10T13:00:00Z",
+    "preferences": [
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1026",
+    "student_name": "Ramesh Kumar",
+    "marks": 74,
+    "category": "OBC",
+    "application_date": "2025-06-15T08:45:00Z",
+    "preferences": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1027",
+    "student_name": "Geeta Devi",
+    "marks": 60,
+    "category": "SC",
+    "application_date": "2025-06-21T10:30:00Z",
+    "preferences": [
+      "Information Technology",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1028",
+    "student_name": "Nikhil Patel",
+    "marks": 92,
+    "category": "General",
+    "application_date": "2025-06-08T12:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Artificial Intelligence and Data Science"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1029",
+    "student_name": "Swati Reddy",
+    "marks": 77,
+    "category": "OBC",
+    "application_date": "2025-06-14T09:15:00Z",
+    "preferences": [
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1030",
+    "student_name": "Harish Singh",
+    "marks": 54,
+    "category": "ST",
+    "application_date": "2025-06-22T14:00:00Z",
+    "preferences": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1031",
+    "student_name": "Ishaan Mehta",
+    "marks": 84,
+    "category": "General",
+    "application_date": "2025-06-25T09:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1032",
+    "student_name": "Farah Khan",
+    "marks": 64,
+    "category": "OBC",
+    "application_date": "2025-06-24T10:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Data Science",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1033",
+    "student_name": "Joel Thomas",
+    "marks": 58,
+    "category": "SC",
+    "application_date": "2025-06-24T11:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1034",
+    "student_name": "Maya Soren",
+    "marks": 62,
+    "category": "ST",
+    "application_date": "2025-06-23T12:00:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Data Science",
+      "Electronics and Communication Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1035",
+    "student_name": "Dev Malhotra",
+    "marks": 54,
+    "category": "General",
+    "application_date": "2025-06-26T09:30:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+    "student_id": "STU_1036",
+    "student_name": "Zoya Ansari",
+    "marks": 49,
+    "category": "OBC",
+    "application_date": "2025-06-26T10:30:00Z",
+    "preferences": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ],
+    "preferred_courses": [],
+    "allocation_status": "pending",
+    "allocated_course": null,
+    "allocated_course_name": null,
+    "allocated_preference": null,
+    "allocation_reason": null,
+    "allocated_at": null,
+    "is_active": true
+  },
+  {
+      "student_id": "STU_1037",
+      "student_name": "Aditya Joshi",
+      "marks": 97,
+      "category": "General",
+      "application_date": "2025-06-27T08:00:00Z",
+      "preferences": [
+        "Cyber Security",
+        "Computer Science and Engineering",
+        "Civil Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1038",
+      "student_name": "Aisha Qureshi",
+      "marks": 90,
+      "category": "OBC",
+      "application_date": "2025-06-27T09:30:00Z",
+      "preferences": [
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1039",
+      "student_name": "Akash Banerjee",
+      "marks": 83,
+      "category": "SC",
+      "application_date": "2025-06-27T10:00:00Z",
+      "preferences": [
+        "Data Analytics",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1040",
+      "student_name": "Amrita Iyer",
+      "marks": 76,
+      "category": "ST",
+      "application_date": "2025-06-27T11:30:00Z",
+      "preferences": [
+        "Biotechnology Engineering",
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1041",
+      "student_name": "Aniket Deshmukh",
+      "marks": 69,
+      "category": "General",
+      "application_date": "2025-06-27T12:00:00Z",
+      "preferences": [
+        "Computer Science and Engineering",
+        "Civil Engineering",
+        "Chemical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1042",
+      "student_name": "Bhavna Chawla",
+      "marks": 62,
+      "category": "OBC",
+      "application_date": "2025-06-27T13:30:00Z",
+      "preferences": [
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering",
+        "Cyber Security"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1043",
+      "student_name": "Chirag Shah",
+      "marks": 55,
+      "category": "SC",
+      "application_date": "2025-06-27T14:00:00Z",
+      "preferences": [
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Robotics and Automation"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1044",
+      "student_name": "Diya Menon",
+      "marks": 48,
+      "category": "ST",
+      "application_date": "2025-06-27T15:30:00Z",
+      "preferences": [
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering",
+        "Data Analytics"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1045",
+      "student_name": "Eshan Kapoor",
+      "marks": 91,
+      "category": "General",
+      "application_date": "2025-06-28T08:00:00Z",
+      "preferences": [
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biotechnology Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1046",
+      "student_name": "Fatima Sheikh",
+      "marks": 84,
+      "category": "OBC",
+      "application_date": "2025-06-28T09:30:00Z",
+      "preferences": [
+        "Electrical Engineering",
+        "Cyber Security",
+        "Computer Science and Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1047",
+      "student_name": "Gaurav Kulkarni",
+      "marks": 77,
+      "category": "SC",
+      "application_date": "2025-06-28T10:00:00Z",
+      "preferences": [
+        "Information Technology",
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1048",
+      "student_name": "Hina Siddiqui",
+      "marks": 70,
+      "category": "ST",
+      "application_date": "2025-06-28T11:30:00Z",
+      "preferences": [
+        "Electronics and Electrical Engineering",
+        "Data Analytics",
+        "Electronics and Communication Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1049",
+      "student_name": "Jatin Arora",
+      "marks": 63,
+      "category": "General",
+      "application_date": "2025-06-28T12:00:00Z",
+      "preferences": [
+        "Chemical Engineering",
+        "Biotechnology Engineering",
+        "Mechanical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1050",
+      "student_name": "Kavya Pillai",
+      "marks": 56,
+      "category": "OBC",
+      "application_date": "2025-06-28T13:30:00Z",
+      "preferences": [
+        "Cyber Security",
+        "Computer Science and Engineering",
+        "Civil Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1051",
+      "student_name": "Lakshya Chauhan",
+      "marks": 49,
+      "category": "SC",
+      "application_date": "2025-06-28T14:00:00Z",
+      "preferences": [
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1052",
+      "student_name": "Mahima Bose",
+      "marks": 92,
+      "category": "ST",
+      "application_date": "2025-06-28T15:30:00Z",
+      "preferences": [
+        "Data Analytics",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1053",
+      "student_name": "Naveen Krishnan",
+      "marks": 85,
+      "category": "General",
+      "application_date": "2025-06-29T08:00:00Z",
+      "preferences": [
+        "Biotechnology Engineering",
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1054",
+      "student_name": "Ojas Tiwari",
+      "marks": 78,
+      "category": "OBC",
+      "application_date": "2025-06-29T09:30:00Z",
+      "preferences": [
+        "Computer Science and Engineering",
+        "Civil Engineering",
+        "Chemical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1055",
+      "student_name": "Pari Saxena",
+      "marks": 71,
+      "category": "SC",
+      "application_date": "2025-06-29T10:00:00Z",
+      "preferences": [
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering",
+        "Cyber Security"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1056",
+      "student_name": "Qasim Ali",
+      "marks": 64,
+      "category": "ST",
+      "application_date": "2025-06-29T11:30:00Z",
+      "preferences": [
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Robotics and Automation"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1057",
+      "student_name": "Radhika Mishra",
+      "marks": 57,
+      "category": "General",
+      "application_date": "2025-06-29T12:00:00Z",
+      "preferences": [
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering",
+        "Data Analytics"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1058",
+      "student_name": "Sahil Bhat",
+      "marks": 50,
+      "category": "OBC",
+      "application_date": "2025-06-29T13:30:00Z",
+      "preferences": [
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biotechnology Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1059",
+      "student_name": "Tanvi Agarwal",
+      "marks": 93,
+      "category": "SC",
+      "application_date": "2025-06-29T14:00:00Z",
+      "preferences": [
+        "Electrical Engineering",
+        "Cyber Security",
+        "Computer Science and Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1060",
+      "student_name": "Uday Prakash",
+      "marks": 86,
+      "category": "ST",
+      "application_date": "2025-06-29T15:30:00Z",
+      "preferences": [
+        "Information Technology",
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1061",
+      "student_name": "Vaishnavi Naidu",
+      "marks": 79,
+      "category": "General",
+      "application_date": "2025-06-30T08:00:00Z",
+      "preferences": [
+        "Electronics and Electrical Engineering",
+        "Data Analytics",
+        "Electronics and Communication Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1062",
+      "student_name": "Wasim Akhtar",
+      "marks": 72,
+      "category": "OBC",
+      "application_date": "2025-06-30T09:30:00Z",
+      "preferences": [
+        "Chemical Engineering",
+        "Biotechnology Engineering",
+        "Mechanical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1063",
+      "student_name": "Yash Jain",
+      "marks": 65,
+      "category": "SC",
+      "application_date": "2025-06-30T10:00:00Z",
+      "preferences": [
+        "Cyber Security",
+        "Computer Science and Engineering",
+        "Civil Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1064",
+      "student_name": "Zara Mirza",
+      "marks": 58,
+      "category": "ST",
+      "application_date": "2025-06-30T11:30:00Z",
+      "preferences": [
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1065",
+      "student_name": "Abhinav Roy",
+      "marks": 51,
+      "category": "General",
+      "application_date": "2025-06-30T12:00:00Z",
+      "preferences": [
+        "Data Analytics",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1066",
+      "student_name": "Bina George",
+      "marks": 94,
+      "category": "OBC",
+      "application_date": "2025-06-30T13:30:00Z",
+      "preferences": [
+        "Biotechnology Engineering",
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1067",
+      "student_name": "Chetan Pawar",
+      "marks": 87,
+      "category": "SC",
+      "application_date": "2025-06-30T14:00:00Z",
+      "preferences": [
+        "Computer Science and Engineering",
+        "Civil Engineering",
+        "Chemical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1068",
+      "student_name": "Deepika Sethi",
+      "marks": 80,
+      "category": "ST",
+      "application_date": "2025-06-30T15:30:00Z",
+      "preferences": [
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering",
+        "Cyber Security"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1069",
+      "student_name": "Emraan Hashmi",
+      "marks": 73,
+      "category": "General",
+      "application_date": "2025-07-01T08:00:00Z",
+      "preferences": [
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Robotics and Automation"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1070",
+      "student_name": "Falguni Das",
+      "marks": 66,
+      "category": "OBC",
+      "application_date": "2025-07-01T09:30:00Z",
+      "preferences": [
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering",
+        "Data Analytics"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1071",
+      "student_name": "Girish Nambiar",
+      "marks": 59,
+      "category": "SC",
+      "application_date": "2025-07-01T10:00:00Z",
+      "preferences": [
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biotechnology Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1072",
+      "student_name": "Heena Kohli",
+      "marks": 52,
+      "category": "ST",
+      "application_date": "2025-07-01T11:30:00Z",
+      "preferences": [
+        "Electrical Engineering",
+        "Cyber Security",
+        "Computer Science and Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1073",
+      "student_name": "Inderpreet Kaur",
+      "marks": 95,
+      "category": "General",
+      "application_date": "2025-07-01T12:00:00Z",
+      "preferences": [
+        "Information Technology",
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1074",
+      "student_name": "Jaya Bhatt",
+      "marks": 88,
+      "category": "OBC",
+      "application_date": "2025-07-01T13:30:00Z",
+      "preferences": [
+        "Electronics and Electrical Engineering",
+        "Data Analytics",
+        "Electronics and Communication Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1075",
+      "student_name": "Kunal Sinha",
+      "marks": 81,
+      "category": "SC",
+      "application_date": "2025-07-01T14:00:00Z",
+      "preferences": [
+        "Chemical Engineering",
+        "Biotechnology Engineering",
+        "Mechanical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1076",
+      "student_name": "Leena Dutta",
+      "marks": 74,
+      "category": "ST",
+      "application_date": "2025-07-01T15:30:00Z",
+      "preferences": [
+        "Cyber Security",
+        "Computer Science and Engineering",
+        "Civil Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1077",
+      "student_name": "Mohit Bansal",
+      "marks": 67,
+      "category": "General",
+      "application_date": "2025-07-02T08:00:00Z",
+      "preferences": [
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1078",
+      "student_name": "Nandini Ghosh",
+      "marks": 60,
+      "category": "OBC",
+      "application_date": "2025-07-02T09:30:00Z",
+      "preferences": [
+        "Data Analytics",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1079",
+      "student_name": "Omkar Patil",
+      "marks": 53,
+      "category": "SC",
+      "application_date": "2025-07-02T10:00:00Z",
+      "preferences": [
+        "Biotechnology Engineering",
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1080",
+      "student_name": "Pallavi Raut",
+      "marks": 96,
+      "category": "ST",
+      "application_date": "2025-07-02T11:30:00Z",
+      "preferences": [
+        "Computer Science and Engineering",
+        "Civil Engineering",
+        "Chemical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1081",
+      "student_name": "Ritesh Pandey",
+      "marks": 89,
+      "category": "General",
+      "application_date": "2025-07-02T12:00:00Z",
+      "preferences": [
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering",
+        "Cyber Security"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1082",
+      "student_name": "Sakshi Thakur",
+      "marks": 82,
+      "category": "OBC",
+      "application_date": "2025-07-02T13:30:00Z",
+      "preferences": [
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Robotics and Automation"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1083",
+      "student_name": "Tarun Bedi",
+      "marks": 75,
+      "category": "SC",
+      "application_date": "2025-07-02T14:00:00Z",
+      "preferences": [
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering",
+        "Data Analytics"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1084",
+      "student_name": "Uma Mahajan",
+      "marks": 68,
+      "category": "ST",
+      "application_date": "2025-07-02T15:30:00Z",
+      "preferences": [
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biotechnology Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1085",
+      "student_name": "Varun Chandra",
+      "marks": 61,
+      "category": "General",
+      "application_date": "2025-07-03T08:00:00Z",
+      "preferences": [
+        "Electrical Engineering",
+        "Cyber Security",
+        "Computer Science and Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1086",
+      "student_name": "Wafa Rahman",
+      "marks": 54,
+      "category": "OBC",
+      "application_date": "2025-07-03T09:30:00Z",
+      "preferences": [
+        "Information Technology",
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1087",
+      "student_name": "Yuvraj Solanki",
+      "marks": 97,
+      "category": "SC",
+      "application_date": "2025-07-03T10:00:00Z",
+      "preferences": [
+        "Electronics and Electrical Engineering",
+        "Data Analytics",
+        "Electronics and Communication Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1088",
+      "student_name": "Aditi Narang",
+      "marks": 90,
+      "category": "ST",
+      "application_date": "2025-07-03T11:30:00Z",
+      "preferences": [
+        "Chemical Engineering",
+        "Biotechnology Engineering",
+        "Mechanical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1089",
+      "student_name": "Bharat Vohra",
+      "marks": 83,
+      "category": "General",
+      "application_date": "2025-07-03T12:00:00Z",
+      "preferences": [
+        "Cyber Security",
+        "Computer Science and Engineering",
+        "Civil Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1090",
+      "student_name": "Charu Lamba",
+      "marks": 76,
+      "category": "OBC",
+      "application_date": "2025-07-03T13:30:00Z",
+      "preferences": [
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1091",
+      "student_name": "Dhruv Saini",
+      "marks": 69,
+      "category": "SC",
+      "application_date": "2025-07-03T14:00:00Z",
+      "preferences": [
+        "Data Analytics",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1092",
+      "student_name": "Ekta Khanna",
+      "marks": 62,
+      "category": "ST",
+      "application_date": "2025-07-03T15:30:00Z",
+      "preferences": [
+        "Biotechnology Engineering",
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1093",
+      "student_name": "Firoz Alam",
+      "marks": 55,
+      "category": "General",
+      "application_date": "2025-07-04T08:00:00Z",
+      "preferences": [
+        "Computer Science and Engineering",
+        "Civil Engineering",
+        "Chemical Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1094",
+      "student_name": "Garima Mathur",
+      "marks": 48,
+      "category": "OBC",
+      "application_date": "2025-07-04T09:30:00Z",
+      "preferences": [
+        "Artificial Intelligence and Data Science",
+        "Electrical Engineering",
+        "Cyber Security"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1095",
+      "student_name": "Hemant Trivedi",
+      "marks": 91,
+      "category": "SC",
+      "application_date": "2025-07-04T10:00:00Z",
+      "preferences": [
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Robotics and Automation"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1096",
+      "student_name": "Ira Mukherjee",
+      "marks": 84,
+      "category": "ST",
+      "application_date": "2025-07-04T11:30:00Z",
+      "preferences": [
+        "Mechanical Engineering",
+        "Electronics and Electrical Engineering",
+        "Data Analytics"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1097",
+      "student_name": "Jayant Goswami",
+      "marks": 77,
+      "category": "General",
+      "application_date": "2025-07-04T12:00:00Z",
+      "preferences": [
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biotechnology Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1098",
+      "student_name": "Kirti Narula",
+      "marks": 70,
+      "category": "OBC",
+      "application_date": "2025-07-04T13:30:00Z",
+      "preferences": [
+        "Electrical Engineering",
+        "Cyber Security",
+        "Computer Science and Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1099",
+      "student_name": "Manav Sood",
+      "marks": 63,
+      "category": "SC",
+      "application_date": "2025-07-04T14:00:00Z",
+      "preferences": [
+        "Information Technology",
+        "Robotics and Automation",
+        "Artificial Intelligence and Data Science"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    },
+    {
+      "student_id": "STU_1100",
+      "student_name": "Nisha Venkatesh",
+      "marks": 56,
+      "category": "ST",
+      "application_date": "2025-07-04T15:30:00Z",
+      "preferences": [
+        "Electronics and Electrical Engineering",
+        "Data Analytics",
+        "Electronics and Communication Engineering"
+      ],
+      "preferred_courses": [],
+      "allocation_status": "pending",
+      "allocated_course": null,
+      "allocated_course_name": null,
+      "allocated_preference": null,
+      "allocation_reason": null,
+      "allocated_at": null,
+      "is_active": true
+    }
+]
