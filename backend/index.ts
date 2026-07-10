@@ -7,6 +7,7 @@ import scaRouter from "./src/routes/sca.routes.js";
 import asaRouter from "./src/routes/asa.routes.js";
 import { errorHandler } from "./src/middlewares/errorHandler.js";
 import { requestLogger } from "./src/middlewares/requestLogger.js";
+import { healthCheck } from "./src/controllers/health.controller.js";
 import { initDB } from "./src/db/client.js";
 import { initAsaDb } from "./src/db/asa-db.js";
 import { registerScaSchemas, registerAsaSchemas } from "./src/schemas/index.js";
@@ -20,6 +21,7 @@ app.use(requestLogger);
 const SCA_BASE_PATH = process.env.SCA_API_PATH ?? "/api/sca";
 const ASA_BASE_PATH = process.env.ASA_API_PATH ?? "/api/asa";
 
+app.get("/health-check", healthCheck);
 app.use("/", scaRouter);
 app.use(SCA_BASE_PATH, scaRouter);
 app.use(ASA_BASE_PATH, asaRouter);
