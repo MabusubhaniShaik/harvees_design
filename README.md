@@ -2,6 +2,12 @@
 
 A dual-module monorepo featuring a **Student Course Allocation (SCA)** system and an **AI SQL Assistant (ASA)** for sales analytics. Built with Express + TypeScript backend and React + Vite frontend.
 
+## Live UI
+
+The deployed application is available at:
+
+**https://harvees-design.vercel.app/module**
+
 ## Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)

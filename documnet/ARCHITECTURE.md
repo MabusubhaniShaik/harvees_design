@@ -117,6 +117,7 @@ User Browser
     | HTTPS
     v
 Vercel — React/Vite frontend
+    | UI: https://harvees-design.vercel.app/module
     |
     | VITE_API_BASE_URL=https://<render-service>.onrender.com
     | /api/sca/* and /api/asa/*
@@ -140,6 +141,7 @@ Vercel serves the compiled React single-page application from the `frontend` wor
 | Setting | Value |
 |---|---|
 | Root directory | `frontend` |
+| Production UI | `https://harvees-design.vercel.app/module` |
 | Framework preset | Vite |
 | Install command | `npm install` |
 | Build command | `npm run build` |
