@@ -183,7 +183,7 @@ After the sample data is imported into MongoDB, `POST /api/sca/allocations/run` 
 │ │ ├── middlewares/ # Request logger, error handler
 │ │ ├── helpers/ # Response formatter, validator
 │ │ └── utils/logger.ts # Winston logger
-│ ├── app.ts # Entry point
+│ ├── index.ts # Entry point
 │ ├── package.json
 │ └── tsconfig.json
 │

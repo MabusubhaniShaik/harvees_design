@@ -390,7 +390,7 @@ backend/
 │ ├── middlewares/ # Express middlewares
 │ ├── helpers/ # Utility helpers
 │ └── utils/logger.ts # Winston logger
-├── app.ts # Process entry
+├── index.ts # Process entry
 ├── package.json
 ├── tsconfig.json
 └── .env # Environment variables

@@ -164,12 +164,12 @@ Render hosts the long-running Express API from the `backend` workspace as a Web 
 | Root directory | `backend` |
 | Runtime | Node.js |
 | Install/build command | `npm install` |
-| Start command for the current TypeScript source setup | `npm run dev` |
+| Start command for the current TypeScript source setup | `npm start` |
 | Health/API origin | `https://<render-service>.onrender.com` |
 
 Render supplies `PORT`; the Express server reads it from `process.env.PORT`. Production secrets and configuration are stored in Render environment variables, including `DB_HOST`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`, `DB_OPTIONS`, `ASA_DB_NAME`, `GEMINI_API_KEY`, `GEMINI_MODEL`, `SCA_API_PATH=/api/sca`, and `ASA_API_PATH=/api/asa`.
 
-The current `backend/tsconfig.json` is type-check-only (`noEmit: true`), so `npm run build` does not create the `dist/index.js` expected by `npm start`. The documented Render command therefore runs the TypeScript entry point directly. Before switching Render to `npm start`, add a production emit configuration that generates `dist/` and validate the compiled entry path.
+The current `backend/tsconfig.json` is type-check-only (`noEmit: true`). The `npm start` command therefore loads the top-level `index.ts` directly through the TypeScript ESM loader; no separate `app.ts` or generated `dist/` entry point is used.
 
 ### Deployment Request Flow
 
